@@ -1,0 +1,4 @@
+To run install these libraries below:
+pandas
+matplotlib
+numpy
